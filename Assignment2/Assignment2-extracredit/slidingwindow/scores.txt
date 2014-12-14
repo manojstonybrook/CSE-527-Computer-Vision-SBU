@@ -1,0 +1,11 @@
+image             score   rowposition    colposition   slidingwindowsize
+sliding1.jpg      6.9      449            801           imagesize/2
+sliding2.jpg      7.05     161            289		imagesize/2
+sliding3.jpg      6.9      449            801 		3*imagesize/4
+sliding4.jpg      7.7      440            850		3*imagesize/4
+sliding5.jpg      5.8 	   897            1537		imagesize/2
+sliding6.jpg      6.1 	  897 		  1537           3*imagesize/4
+sliding7.jpg      3.7  	  193 		  2337    	3*imagesize/4
+sliding8.jpg      5.50    120 		  2300		imagesize/2
+sliding9.jpg      3.8     897 		  1400		imagesize/2
+sliding10.jpg    4.5      800 		  1537		imagesize/2 

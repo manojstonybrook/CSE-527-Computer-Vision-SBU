@@ -1,0 +1,40 @@
+Scores for Mobile:(label +1)
+res01.jpg                 1.145220
+res02.jpg                 1.041200
+res03.jpg                 0.808740
+res04.jpg                 0.494148
+res05.jpg                 1.568323
+res06.jpg                -0.083613    
+res07.jpg                 0.596109
+res08.jpg                 0.245358
+res09.jpg                 1.289838
+res10.jpg                 1.303144
+res11.jpg                 0.377800
+res12.jpg                 0.280376
+res13.jpg                 0.248483
+res14.jpg                 1.630517
+res15.jpg                 1.399259
+res16.jpg                 0.146625
+res17.jpg                 0.463213
+res18.jpg                 0.776022
+res19.jpg                 0.744635
+res20.jpg                 1.153929
+
+Scores for Comb. (label -1)
+res21.jpg                -0.293408
+res22.jpg                -1.322085
+res23.jpg                -0.151508
+res24.jpg                -0.453529
+res25.jpg                 0.010126
+res26.jpg                 0.564567
+res27.jpg                -1.125854
+res28.jpg                -1.005090
+res29.jpg                -0.455966
+res30.jpg                -0.325207
+res31.jpg                -1.000000
+res31.jpg                -1.000000
+res31.jpg                -1.007071
+res32.jpg                -1.075663
+res33.jpg                -1.196501
+res34.jpg                -0.321703
+res35.jpg                -0.403135
